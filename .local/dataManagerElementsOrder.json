@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "DepositPeriod&Sequence_1",
+        "FinalEarning&Sequence_1",
+        "DepositAmount&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SimpleIntrestCalculator.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "RatePerYear&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_DepositPeriod",
+        "Out_FinalEarning",
+        "In_DepositAmount"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
